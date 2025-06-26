@@ -1,0 +1,11 @@
+.App {
+  width: 95%;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  /* font-family: poppins; */
+}
+.title {
+  font-weight: 700;
+}

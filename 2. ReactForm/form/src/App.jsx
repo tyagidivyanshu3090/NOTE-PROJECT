@@ -1,4 +1,5 @@
-import Register from "./Register";
+import Register from "./Register.jsx";
+
 function App() {
   return (
     <main className="App">
@@ -8,4 +9,3 @@ function App() {
 }
 
 export default App;
-
